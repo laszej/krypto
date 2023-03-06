@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/krypto/static/css/main.34c8046c.css",
+    "main.js": "/krypto/static/js/main.d9f94320.js",
+    "static/media/bitcoin.svg": "/krypto/static/media/bitcoin.73f2339883323c36edd0e8131dcffa92.svg",
+    "index.html": "/krypto/index.html",
+    "main.34c8046c.css.map": "/krypto/static/css/main.34c8046c.css.map",
+    "main.d9f94320.js.map": "/krypto/static/js/main.d9f94320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.34c8046c.css",
+    "static/js/main.d9f94320.js"
+  ]
+}
